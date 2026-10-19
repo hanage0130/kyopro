@@ -8,7 +8,7 @@ using ll = long long;
 using ull = unsigned long long;
 
 #ifdef LOCAL
-#include "cpp-dump/cpp-dump-config.hpp"
+#include <cpp-dump/cpp-dump-config.hpp>
 #else
 #define dump(...)
 #endif
@@ -16,6 +16,6 @@ using ull = unsigned long long;
 int main() {
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
-
+    
     return 0;
 }
