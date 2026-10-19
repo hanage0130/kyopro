@@ -1,6 +1,6 @@
 {
     "code-runner.runInTerminal": true,
     "code-runner.executorMap": {
-        "cpp": "cd $dir && g++-14 -std=gnu++23 -O2 -Wall -Wextra -DLOCAL -I/home/takeru/projects/kyopro/include $fileName -o $fileNameWithoutExt.out && echo -e \"\\033[32mCompilation has finished\\033[0m\" && $dir$fileNameWithoutExt.out",
+        "cpp": "cd $dir && g++-14 -std=gnu++23 -O2 -Wall -Wextra -DLOCAL -I/home/takeru/projects/kyopro/include $fileName -o $fileNameWithoutExt.out && echo -e \"\\033[32mCompilation has finished\\033[0m\" && time $dir$fileNameWithoutExt.out",
     }
 }
