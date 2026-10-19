@@ -1,9 +1,13 @@
 *.out
 *.exe
 main.cpp
-include/atcoder
+include/atcoder/*
 include/expander.py
 include/cpp-dump/*
 !include/cpp-dump/cpp-dump-config.hpp
 compile.sh
 run.sh
+img/
+include/atcoder/
+include/cpp-dump/
+include/library/data-structure/dsu.hpp
