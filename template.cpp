@@ -8,7 +8,7 @@ using ll = long long;
 using ull = unsigned long long;
 
 #ifdef LOCAL
-#include <cpp-dump/cpp-dump-config.hpp>
+#include <cpp-dump/config.hpp>
 #else
 #define dump(...)
 #endif
