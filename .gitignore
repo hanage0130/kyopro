@@ -1,9 +1,9 @@
 *.out
 *.exe
 main.cpp
-ac-library-1.6/
-expander.py
-cpp-dump/*
-!cpp-dump/cpp-dump-config.hpp
+include/atcoder
+include/expander.py
+include/cpp-dump/*
+!include/cpp-dump/cpp-dump-config.hpp
 compile.sh
 run.sh
