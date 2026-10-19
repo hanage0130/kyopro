@@ -1,0 +1,6 @@
+{
+    "code-runner.runInTerminal": true,
+    "code-runner.executorMap": {
+        "cpp": "cd $dir && g++-14 -std=gnu++23 -O2 -Wall -Wextra -DLOCAL -I/home/takeru/projects/kyopro/ac-library-1.6 $fileName -o $fileNameWithoutExt.out && echo aaa && $dir$fileNameWithoutExt.out",
+    }
+}
