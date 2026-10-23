@@ -1,4 +1,7 @@
 {
+    // "files.autoSave": "afterDelay",
+    // "files.eol": "\n",
+    "editor.tabSize": 4,
     "[cpp]": {
         "editor.quickSuggestions": {
             "other": "off",
