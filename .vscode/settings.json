@@ -1,12 +1,15 @@
 {
-    "editor.quickSuggestions": {
-        "other": "off",
-        "comments": "off",
-        "strings": "off"
+    "[cpp]": {
+        "editor.quickSuggestions": {
+            "other": "off",
+            "comments": "off",
+            "strings": "off"
+        },
+        "editor.suggestOnTriggerCharacters": false,
     },
-    "editor.suggestOnTriggerCharacters": false,
     "code-runner.runInTerminal": true,
     "code-runner.executorMap": {
         "cpp": "cd $dir && g++-14 -std=gnu++23 -O2 -Wall -Wextra -DLOCAL -I/home/takeru/projects/kyopro/include $fileName -o $fileNameWithoutExt.out && echo -e \"\\033[32mCompilation has finished\\033[0m\" && time $dir$fileNameWithoutExt.out",
-    }
+    },
+    "cSpell.enabled": false
 }
