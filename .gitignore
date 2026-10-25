@@ -16,3 +16,6 @@ a/
 atcoder/
 expander.py
 combined.cpp
+main.cpp
+in*.txt
+out*.txt
