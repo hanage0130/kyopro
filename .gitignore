@@ -2,10 +2,10 @@
 !*/
 !*.*
 main*.cpp
-test*.cpp
 naive*.cpp
+?.cpp
 gen*.py
-randomtest.sh
+test.sh
 memo.txt
 in*.txt
 out*.txt
