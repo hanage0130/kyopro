@@ -1,21 +1,6 @@
+main.cpp
 *.out
 *.exe
-# main.cpp
-# include/atcoder/*
-# include/expander.py
-# include/cpp-dump/*
-# !include/cpp-dump/cpp-dump-config.hpp
-# compile.sh
-# run.sh
-# img/
-# include/atcoder/
-# include/cpp-dump/
-# include/library/data-structure/dsu.hpp
-ac-library-1.6/
-a/
 atcoder/
 expander.py
-combined.cpp
-main.cpp
-in*.txt
-out*.txt
+cpp-dump/
