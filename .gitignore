@@ -1,4 +1,6 @@
 main.cpp
+test.cpp
+naive.cpp
 *.out
 *.exe
 atcoder/
