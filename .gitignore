@@ -14,3 +14,5 @@ out*.txt
 atcoder/
 expander.py
 cpp-dump/
+ahc/
+tmp/
