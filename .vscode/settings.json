@@ -4,7 +4,7 @@
     "editor.fontFamily": "JetBrains Mono",
     "terminal.integrated.fontFamily": "JetBrains Mono",
     "editor.tabSize": 4,
-    // "terminal.integrated.defaultProfile.linux": "bash",
+    "terminal.integrated.defaultProfile.linux": "bash",
     "cSpell.enabled": false,
     "[cpp]": {
         "editor.tabSize": 2,
