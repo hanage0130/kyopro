@@ -5,7 +5,7 @@ main*.cpp
 naive*.cpp
 ?.cpp
 gen*.py
-test.sh
+# test.sh
 memo.txt
 in*.txt
 out*.txt
