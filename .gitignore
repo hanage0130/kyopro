@@ -4,7 +4,7 @@
 main*.cpp
 naive*.cpp
 ?.cpp
-gen*.pys
+gen*.py
 memo.txt
 in*.txt
 out*.txt
@@ -15,3 +15,4 @@ expander.py
 cpp-dump/
 ahc/
 tmp/
+.vscode/
