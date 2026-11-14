@@ -1,3 +1,5 @@
+// https://info.atcoder.jp/entry/algorithm_lectures/randomtest
+
 while true; do
     python3 generate.py > in.txt
     ./main < in.txt > out1.txt
