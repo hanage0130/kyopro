@@ -1,4 +1,4 @@
-// https://info.atcoder.jp/entry/algorithm_lectures/randomtest
+# https://info.atcoder.jp/entry/algorithm_lectures/randomtest
 
 while true; do
     python3 generate.py > in.txt

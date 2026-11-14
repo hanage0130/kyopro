@@ -9,10 +9,9 @@ in*.txt
 out*.txt
 *.out
 *.exe
-atcoder/
+atcoder/*
 expander.py
 cpp-dump/*
 !cpp-dump/custom-cpp-dump.hpp
-ahc/
-tmp/
+tmp/*
 .vscode/c_cpp_properties.json
