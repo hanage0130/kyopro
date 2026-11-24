@@ -1,14 +1,15 @@
+# すべて無視
 *
+
+# ディレクトリを再許可
 !*/
-!*.*
-main*.cpp
-naive*.cpp
-?.cpp
-gen*.py
-in*.txt
-out*.txt
-*.out
-*.exe
-atcoder/*
-expander.py
-cpp-dump/*
+
+# 追跡するもの
+!/.vscode/
+!/library/
+!/.clang-format
+!/.gitignore
+!/install-deps.sh
+!/template.cpp
+!/template2.cpp
+!/test.sh
