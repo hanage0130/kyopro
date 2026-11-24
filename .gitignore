@@ -12,6 +12,3 @@ out*.txt
 atcoder/*
 expander.py
 cpp-dump/*
-!cpp-dump/custom-cpp-dump.hpp
-tmp/*
-.vscode/c_cpp_properties.json

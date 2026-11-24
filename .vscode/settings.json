@@ -1,9 +1,7 @@
 {
-    "files.autoSave": "afterDelay",
+    "files.autoSave": "onFocusChange",
     "files.eol": "\n",
     "editor.tabSize": 4,
-    "terminal.integrated.defaultProfile.linux": "bash",
-    "cSpell.enabled": false,
     "[cpp]": {
         "editor.tabSize": 2,
         "editor.quickSuggestions": {
@@ -17,4 +15,5 @@
         "editor.snippetSuggestions": "none",
         "editor.acceptSuggestionOnEnter": "off"
     },
+    "cSpell.enabled": false,
 }
