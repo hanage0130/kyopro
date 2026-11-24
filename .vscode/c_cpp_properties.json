@@ -6,9 +6,9 @@
                 "${workspaceFolder}/**"
             ],
             "defines": [],
-            "compilerPath": "C:/msys64/ucrt64/bin/g++.exe",
+            "compilerPath": "/usr/bin/g++-14",
             "cppStandard": "gnu++23",
-            "intelliSenseMode": "windows-gcc-x64"
+            "intelliSenseMode": "linux-gcc-x64"
         },
         {
             "name": "Windows",
