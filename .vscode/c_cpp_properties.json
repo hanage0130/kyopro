@@ -6,9 +6,18 @@
                 "${workspaceFolder}/**"
             ],
             "defines": [],
-            "compilerPath": "/usr/bin/g++-14",
+            "compilerPath": "C:/msys64/ucrt64/bin/g++.exe",
             "cppStandard": "gnu++23",
-            "intelliSenseMode": "linux-gcc-x64"
+            "intelliSenseMode": "windows-gcc-x64"
+        },
+        {
+            "name": "Windows",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "compilerPath": "C:\\msys64\\ucrt64\\bin\\gcc.exe",
+            "cppStandard": "gnu++20",
+            "intelliSenseMode": "windows-gcc-x64"
         }
     ],
     "version": 4
